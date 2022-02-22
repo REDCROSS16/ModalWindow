@@ -76,10 +76,3 @@ $('.jq-open-modal').click(function(event) {
     
     $(this).removeClass('active');
  })
- 
- 
-
-
-// bla bla
-
-///// ehehe classic
